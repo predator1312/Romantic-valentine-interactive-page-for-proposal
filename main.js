@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const yesButton = document.querySelector(".choice-box button:first-child");
     const noButton = document.querySelector(".choice-box button:last-child");
 
-    let partnerName = "Nancy"; // Replace with dynamic value
+    let partnerName = "Baby"; // Replace with dynamic value
     let noClickCount = 0; // Counter for No button clicks
 
     // Function to create typewriter effect
